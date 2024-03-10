@@ -1,0 +1,82 @@
+﻿QKEY,Unique ID
+ENV2_a_W108,ENV2_a_W108. Do you favor or oppose EXPANDING each of the following sources of energy in our country?    More offshore oil and gas drilling in U.S. waters
+ENV2_b_W108,ENV2_b_W108. Do you favor or oppose EXPANDING each of the following sources of energy in our country?    More nuclear power plants to generate electricity
+ENV2_c_W108,ENV2_c_W108. Do you favor or oppose EXPANDING each of the following sources of energy in our country?    More coal mining
+ENV2_d_W108,ENV2_d_W108. Do you favor or oppose EXPANDING each of the following sources of energy in our country?    More solar panel “farms”
+ENV2_e_W108,"ENV2_e_W108. Do you favor or oppose EXPANDING each of the following sources of energy in our country?    More hydraulic fracturing, sometimes called “fracking,” for oil and natural gas"
+ENV2_f_W108,ENV2_f_W108. Do you favor or oppose EXPANDING each of the following sources of energy in our country?    More wind turbine “farms”
+ENKNOW1_W108,"ENKNOW1_W108. As far as you know, to meet its energy needs, does the U.S.…"
+ENKNOW2_W108,"ENKNOW2_W108. As far as you know, to meet its energy needs, does the U.S rely mostly on…"
+EN1_W108,"EN1_W108. Right now, which ONE of the following do you think should be the more important priority for addressing America’s energy supply?"
+GASXPORT1_W108,"GASXPORT1_W108. Overall, would you favor or oppose the U.S. expanding natural gas production to export large amounts of natural gas to European countries?"
+GASXPORT2_a_W108,"GASXPORT2_a_W108. When it comes to whether the U.S. should export large amounts of natural gas to European countries, how much of a consideration should each of the following be?    The impact on climate change"
+GASXPORT2_b_W108,"GASXPORT2_b_W108. When it comes to whether the U.S. should export large amounts of natural gas to European countries, how much of a consideration should each of the following be?    The impact on the Russian economy"
+GASXPORT2_c_W108,"GASXPORT2_c_W108. When it comes to whether the U.S. should export large amounts of natural gas to European countries, how much of a consideration should each of the following be?    The impact on natural gas prices in the U.S."
+EVCAR2_W108,"EVCAR2_W108. The next time you purchase a vehicle, how likely are you to seriously consider purchasing an electric vehicle?"
+EVCAR2B_a_W108,EVCAR2B_a_W108. How much of a reason is each of the following for why you would consider purchasing an electric vehicle?    To save money on gas
+EVCAR2B_b_W108,EVCAR2B_b_W108. How much of a reason is each of the following for why you would consider purchasing an electric vehicle?    To help the environment
+EVCAR2B_c_W108,EVCAR2B_c_W108. How much of a reason is each of the following for why you would consider purchasing an electric vehicle?    To keep up with the latest trends in vehicles
+EVCAR3_W108,EVCAR3_W108. Do you favor or oppose phasing out the production of new gasoline cars and trucks by the year 2035?
+EVCAR1_W108,EVCAR1_W108. Do you currently have an electric or hybrid vehicle?
+LAWCOST_W108,"LAWCOST_W108. Which of these statements comes closer to your view, even if neither is exactly right?"
+ENVIR8_a_W108,ENVIR8_a_W108. How much do you think the federal government is doing to…    Protect air quality
+ENVIR8_b_W108,"ENVIR8_b_W108. How much do you think the federal government is doing to…    Protect water quality of lakes, rivers and streams"
+ENVIR8_c_W108,ENVIR8_c_W108. How much do you think the federal government is doing to…    Protect animals and their habitats
+ENVIR8_d_W108,ENVIR8_d_W108. How much do you think the federal government is doing to…    Protect open lands in national parks and nature preserves
+ENVIR8_e_W108,ENVIR8_e_W108. How much do you think the federal government is doing to…    Reduce the effects of global climate change
+LOCENV_a_W108,"LOCENV_a_W108. How much of a problem, if at all, do you think each of the following is in your local community?    Air pollution"
+LOCENV_b_W108,"LOCENV_b_W108. How much of a problem, if at all, do you think each of the following is in your local community?    Pollution of lakes, rivers and streams"
+LOCENV_c_W108,"LOCENV_c_W108. How much of a problem, if at all, do you think each of the following is in your local community?    Safety of drinking water"
+LOCENV_d_W108,"LOCENV_d_W108. How much of a problem, if at all, do you think each of the following is in your local community?    Too much garbage, waste and landfills"
+LOCENV_e_W108,"LOCENV_e_W108. How much of a problem, if at all, do you think each of the following is in your local community?    Lack of greenspace and parks"
+ENVRMPCT_a_W108,"ENVRMPCT_a_W108. In the past 12 months, has your local community experienced the following?    Droughts or water shortages"
+ENVRMPCT_b_W108,"ENVRMPCT_b_W108. In the past 12 months, has your local community experienced the following?    Long periods of unusually hot weather"
+ENVRMPCT_c_W108,"ENVRMPCT_c_W108. In the past 12 months, has your local community experienced the following?    Severe weather, like floods or intense storms"
+ENVRMPCT_d_W108,"ENVRMPCT_d_W108. In the past 12 months, has your local community experienced the following?    Rising sea levels that erode beaches and shorelines"
+ENVRMPCT_e_W108,"ENVRMPCT_e_W108. In the past 12 months, has your local community experienced the following?    Major wildfires"
+CCXTRW1_a_W108,"CCXTRW1_a_W108. In the past 12 months, how much do you think climate change contributed to the following in your local community?    Droughts or water shortages"
+CCXTRW1_b_W108,"CCXTRW1_b_W108. In the past 12 months, how much do you think climate change contributed to the following in your local community?    Long periods of unusually hot weather"
+CCXTRW1_c_W108,"CCXTRW1_c_W108. In the past 12 months, how much do you think climate change contributed to the following in your local community?    Severe weather, like floods or intense storms"
+CCXTRW1_d_W108,"CCXTRW1_d_W108. In the past 12 months, how much do you think climate change contributed to the following in your local community?    Rising sea levels that erode beaches and shorelines"
+CCXTRW1_e_W108,"CCXTRW1_e_W108. In the past 12 months, how much do you think climate change contributed to the following in your local community?    Major wildfires"
+CCPOLICY_a_W108,CCPOLICY_a_W108. Do you favor or oppose the following proposals to reduce the effects of global climate change?    Planting about a trillion trees around the world to absorb carbon emissions in the atmosphere
+CCPOLICY_b_W108,CCPOLICY_b_W108. Do you favor or oppose the following proposals to reduce the effects of global climate change?    Taxing corporations based on the amount of carbon emissions they produce
+CCPOLICY_c_W108,CCPOLICY_c_W108. Do you favor or oppose the following proposals to reduce the effects of global climate change?    Providing a tax credit to encourage businesses to develop technology which captures and stores carbon emissions so they do not enter the atmo
+CCPOLICY_d_W108,"CCPOLICY_d_W108. Do you favor or oppose the following proposals to reduce the effects of global climate change?    Requiring power companies to use more energy from renewable sources, such as wind or solar, to reduce carbon emissions"
+CCPOLICY_e_W108,CCPOLICY_e_W108. Do you favor or oppose the following proposals to reduce the effects of global climate change?    Providing incentives to increase the use of hybrid and electric vehicles
+BIDENC4_W108,"BIDENC4_W108. Overall, do you think the Biden administration’s policies on climate change are taking the country in the right or wrong direction?"
+BIDENC5_W108,"BIDENC5_W108. When it comes to the Biden administration’s efforts on climate change, which comes closer to your views?"
+MARITAL_W108,MARITAL_W108. Which of these best describes you?
+MARITAL2_W108,MARITAL2_W108. Are you currently in a committed romantic relationship?
+MARITAL3N_W108,MARITAL3N_W108. Are you currently looking for a romantic partner – committed or casual?
+ONLINEDATE_W108,ONLINEDATE_W108. Have you ever used an online dating site or dating app?
+ONLINEDATE2_W108,ONLINEDATE2_W108. Are you currently using an online dating site or dating app?
+F_METRO,Metropolitan area indicator
+F_CREGION,Census region
+F_CDIVISION,Census division
+F_AGECAT,Age category
+F_GENDER,Gender
+F_EDUCCAT,Education level category
+F_EDUCCAT2,Education level category 2
+F_HISP,Hispanic identification
+F_HISP_ORIGIN,Hispanic origin
+F_YEARSINUS,Years lived in U.S. (excluding Puerto Rico or other U.S. territories)
+F_RACECMB,Combining Race
+F_RACETHNMOD,Race-Ethnicity
+F_CITIZEN,Citizenship
+F_BIRTHPLACE,Birthplace
+F_MARITAL,Marital status
+F_RELIG,Religion
+F_BORN,Born-again or evangelical Christian
+F_RELIGCAT1,Condensed 4-way religion variable
+F_ATTEND,Religious service attendance
+F_PARTY_FINAL,Party
+F_PARTYLN_FINAL,Party lean
+F_PARTYSUM_FINAL,Party summary
+F_PARTYSUMIDEO_FINAL,Combining ideology and party identification
+F_INC_SDT1,Family income
+F_REG,Registered voter
+F_IDEO,Ideology
+F_INTFREQ,Frequency of internet use
+F_VOLSUM,Volunteerism status
+F_INC_TIER2,Income tier 3-way
